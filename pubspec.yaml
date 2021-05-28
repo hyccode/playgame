@@ -29,6 +29,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flame: ^0.29.4
+  shared_preferences: ^2.0.6
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +64,37 @@ flutter:
     - assets/images/flies/macho-fly-1.png
     - assets/images/flies/macho-fly-2.png
     - assets/images/flies/macho-fly-dead.png
+    - assets/images/bg/lose-splash.png
+    - assets/images/branding/title.png
+    - assets/images/ui/dialog-credits.png
+    - assets/images/ui/dialog-help.png
+    - assets/images/ui/icon-credits.png
+    - assets/images/ui/icon-help.png
+    - assets/images/ui/start-button.png
+    - assets/images/ui/callout.png
+    - assets/audio/sfx/haha1.ogg
+    - assets/audio/sfx/haha2.ogg
+    - assets/audio/sfx/haha3.ogg
+    - assets/audio/sfx/haha4.ogg
+    - assets/audio/sfx/haha5.ogg
+    - assets/audio/sfx/ouch1.ogg
+    - assets/audio/sfx/ouch2.ogg
+    - assets/audio/sfx/ouch3.ogg
+    - assets/audio/sfx/ouch4.ogg
+    - assets/audio/sfx/ouch5.ogg
+    - assets/audio/sfx/ouch6.ogg
+    - assets/audio/sfx/ouch7.ogg
+    - assets/audio/sfx/ouch8.ogg
+    - assets/audio/sfx/ouch9.ogg
+    - assets/audio/sfx/ouch10.ogg
+    - assets/audio/sfx/ouch11.ogg
+    - assets/audio/bgm/home.mp3
+    - assets/audio/bgm/playing.mp3
+    - assets/audio/sfx/haha1.ogg
+    - assets/images/ui/icon-music-disabled.png
+    - assets/images/ui/icon-music-enabled.png
+    - assets/images/ui/icon-sound-disabled.png
+    - assets/images/ui/icon-sound-enabled.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
